@@ -1,5 +1,5 @@
 # sql-data-warehouse-project-
-Building a modern data warehouse with sql server , including ETL processes, data modelling and Analytics
+Building a modern data warehouse with sql server , including ETL processes, data modelling and Analytics.
 SQL Ultimate Course
 Welcome to the SQL Ultimate Course repository! 🚀
 This course will cover everything you need to master SQL!
